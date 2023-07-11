@@ -2,3 +2,7 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 11.07.2023;Jacques;Marcus;Lena;Rafael;6;3
 11.07.2023;Jacques;Rafael;Marcus;Lena;6;3
 11.07.2023;Jacques;Lena;Rafael;Marcus;0;6
+11.07.2023;Rafael;Marcus;Simon;Lena;6;3
+11.07.2023;Lena;Marcus;Rafael;Simon;6;5
+11.07.2023;Rafael;Lena;Simon;Jacques;6;1
+11.07.2023;Rafael;Lena;Marcus;Jacques;2;6
