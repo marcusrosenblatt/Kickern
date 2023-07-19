@@ -42,3 +42,7 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 18.07.2023;Paul;Lena;FGW;Jacques;2;6
 18.07.2023;Rafael;Lena;FGW;Paul;2;6
 18.07.2023;Rafael;Jacques;Lena;Paul;2;6
+19.07.2023;Rafael;Lena;FGW;Jacques;4;6
+19.07.2023;Jacques;Rafael;FGW;Lena;4;6
+19.07.2023;Rafael;Lena;Jacques;FGW;2;6
+19.07.2023;Jacques;Lena;FGW;Rafael;2;6
