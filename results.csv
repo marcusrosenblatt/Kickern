@@ -37,6 +37,8 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 17.07.2023;Lena;Paul;Jacques;Rafael;6;5
 17.07.2023;FGW;Lena;Philipp;Paul;2;6
 17.07.2023;Jacques;Paul;Rafael;Lena;2;6
+17.07.2023;Rafael;Rafael;Paul;Paul;3;6
+17.07.2023;Rafael;Rafael;Lena;Lena;6;1
 18.07.2023;Jacques;Paul;Rafael;Lena;6;4
 18.07.2023;Jacques;Paul;Rafael;FGW;0;6
 18.07.2023;Paul;Lena;FGW;Jacques;2;6
@@ -46,3 +48,12 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 19.07.2023;Jacques;Rafael;FGW;Lena;4;6
 19.07.2023;Rafael;Lena;Jacques;FGW;2;6
 19.07.2023;Jacques;Lena;FGW;Rafael;2;6
+20.07.2023;Jacques;Rafael;Paul;Lena;2;6
+20.07.2023;Jacques;Paul;Rafael;Lena;6;5
+20.07.2023;Paul;Rafael;Lena;Jacques;6;1
+20.07.2023;Jacques;Paul;Lena;Rafael;6;2
+20.07.2023;Paul;Paul;Rafael;Lena;6;5
+20.07.2023;Rafael;Jacques;Lena;Paul;6;4
+20.07.2023;Paul;Paul;Severin;Severin;6;3
+20.07.2023;Jacques;FGW;Paul;Lena;5;6
+20.07.2023;Paul;Jacques;FGW;Lena;6;5
