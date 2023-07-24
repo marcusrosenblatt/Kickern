@@ -60,3 +60,12 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 21.07.2023;Jacques;Marcus;Rafael;Lena;2;6
 21.07.2023;Lena;Marcus;Rafael;Jacques;5;6
 21.07.2023;Rafael;Marcus;Lena;Jacques;6;3
+21.07.2023;Rafael;Rafael;Marcus;Marcus;5;6
+24.07.2023;Rafael;Rafael;Severin;Jacques;1;6
+24.07.2023;Severin;Rafael;Jacques;Jacques;6;3
+24.07.2023;Severin;Severin;Rafael;Jacques;2;6
+24.07.2023;Rafael;Severin;Jacques;Jacques;6;0
+24.07.2023;Severin;Severin;Rafael;Rafael;6;1
+24.07.2023;Simon;Rafael;Philipp;Severin;6;5
+24.07.2023;Philipp;Rafael;Severin;Simon;6;2
+24.07.2023;Severin;Rafael;Simon;Philipp;6;3
