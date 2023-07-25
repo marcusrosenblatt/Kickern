@@ -79,3 +79,7 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 25.07.2023;Severin;Rafael;Philipp;Jacques;6;3
 25.07.2023;Severin;Philipp;Jacques;Rafael;6;2
 25.07.2023;Philipp;Rafael;Severin;Jacques;6;1
+25.07.2023;Severin;Philipp;Jacques;Marcus;4;6
+25.07.2023;Rafael;Jacques;Severin;Marcus;1;6
+25.07.2023;Severin;Jacques;Rafael;Marcus;4;6
+25.07.2023;Philipp;Jacques;Severin;Rafael;4;3
