@@ -101,3 +101,12 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 26.07.2023;Marcus;Severin;Paul;Rafael;2;6
 26.07.2023;Severin;Marcus;Paul;Rafael;6;0
 26.07.2023;Rafael;Paul;Severin;Marcus;6;1
+26.07.2023;Paul;Paul;Severin;Severin;6;4
+27.07.2023;Severin;Marcus;Philipp;Rafael;6;4
+27.07.2023;Marcus;Rafael;Severin;Philipp;4;6
+27.07.2023;Philipp;Marcus;Severin;Rafael;6;3
+27.07.2023;Jakob;Jakob;Severin;Severin;6;1
+27.07.2023;Jakob;Jakob;Rafael;Rafael;6;1
+27.07.2023;Severin;Severin;Jakob;Jakob;6;3
+27.07.2023;Severin;Marcus;Rafael;Jakob;6;4
+27.07.2023;Severin;Marcus;Jakob;Rafael;3;6
