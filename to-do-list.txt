@@ -1,0 +1,11 @@
+To-Do-Liste für die Kickerstatisik:
+
+- add trend of last 10 games / 1 week / 1 month to the table of ELOs
+- add crawl ratio to ELO table (Table 1) or to Gewinnrate vorne/hinten Table 2
+- plot time courses of ELOs
+- add a table or plot on "Gewinnerwartung over ELO difference" (once for all)
+- add colors to Table 2 (Gewinnrate Vorne vs. Hinten)
+- output Team-ELO as a 2D-matrix (currently 11 times 11), potentially also account for "Vorne/Hinten" (then 22 times 22, maybe to big)
+- optinal: list best and worst TEAM-Elos as a table (for example: only show best and worst 10 teams)
+- in final table: color the winners
+- add a basic ELO list for single player mode
