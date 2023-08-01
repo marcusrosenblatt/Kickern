@@ -140,3 +140,15 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 31.07.2023;Severin;Rafael;Jacques;FGW;2;6
 31.07.2023;Severin;Paul;Marcus;FGW;2;6
 31.07.2023;Jacques;Paul;Severin;FGW;6;5
+31.07.2023;Rafael;Jacques;Severin;Paul;3;6
+31.07.2023;Severin;Rafael;Jacques;Paul;6;1
+31.07.2023;Rafael;Paul;Simon;FGW;6;4
+31.07.2023;Rafael;Paul;Severin;Simon;6;4
+31.07.2023;Severin;Paul;Rafael;Simon;6;2
+31.07.2023;Severin;Rafael;Paul;Simon;6;4
+31.07.2023;Simon;Rafael;Severin;FGW;0;6
+31.07.2023;Severin;Rafael;Philipp;FGW;6;5
+01.08.2023;Marcus;Marcus;Severin;Severin;6;2
+01.08.2023;Severin;Severin;Paul;Paul;6;5
+01.08.2023;Severin;Paul;Simon;Rafael;6;0
+01.08.2023;Severin;Severin;Paul;Paul;3;6
