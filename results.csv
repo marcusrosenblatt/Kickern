@@ -153,3 +153,12 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 01.08.2023;Severin;Paul;Simon;Rafael;6;0
 01.08.2023;Severin;Severin;Paul;Paul;3;6
 01.08.2023;Marcus;Marcus;Paul;Paul;6;4
+01.08.2023;Severin;Philipp;Jacques;Paul;4;6
+01.08.2023;Philipp;Paul;Severin;Jacques;5;6
+01.08.2023;Philipp;Lena;Jacques;Paul;6;4
+01.08.2023;Severin;Lena;Paul;Marcus;4;6
+01.08.2023;FGW;Lena;Severin;Paul;3;6
+01.08.2023;Severin;FGW;Paul;Lena;6;2
+01.08.2023;FGW;Paul;Severin;Lena;6;0
+02.08.2023;Severin;FGW;Marcus;Jacques;6;3
+02.08.2023;FGW;Jacques;Philipp;Simon;6;0
