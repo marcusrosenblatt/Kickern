@@ -176,3 +176,15 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 03.08.2023;Severin;Camilla;Philipp;Marcus;0;6
 03.08.2023;Marcus;Severin;Selina;Simon;6;4
 03.08.2023;Camilla;Simon;Selina;Marcus;5;6
+04.08.2023;Marcus;Lena;Philipp;Svenja;4;2
+04.08.2023;Marcus;Lena;Philipp;Simon;6;5
+04.08.2023;Simon;Marcus;Philipp;Lena;6;2
+04.08.2023;Marcus;Philipp;Simon;Lena;6;1
+04.08.2023;Marcus;Marcus;Svenja;Simon;6;5
+04.08.2023;Simon;Simon;Svenja;Svenja;0;6
+04.08.2023;Marcus;Marcus;Svenja;Svenja;5;6
+04.08.2023;Marcus;Marcus;Simon;Simon;6;2
+04.08.2023;Marcus;Simon;Svenja;Svenja;6;3
+07.08.2023;Marcus;Simon;Svenja;FGW;6;2
+07.08.2023;Svenja;Marcus;Simon;FGW;6;4
+07.08.2023;Svenja;Simon;FGW;Marcus;3;6
