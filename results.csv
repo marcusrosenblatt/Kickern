@@ -198,3 +198,9 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 08.08.2023;FGW;Paul;Rafael;Simon;6;1
 08.08.2023;FGW;Rafael;Marcus;Jacques;6;4
 08.08.2023;FGW;Jacques;Rafael;Marcus;5;6
+09.08.2023;FGW;FGW;Jacques;Jacques;6;4
+09.08.2023;Svenja;FGW;Rafael;Simon;6;4
+09.08.2023;FGW;Jacques;Svenja;Simon;6;2
+09.08.2023;Jacques;Svenja;FGW;Simon;3;6
+09.08.2023;Rafael;Simon;FGW;Jacques;6;5
+09.08.2023;Rafael;Jacques;FGW;FGW;3;6
