@@ -204,3 +204,8 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 09.08.2023;Jacques;Svenja;FGW;Simon;3;6
 09.08.2023;Rafael;Simon;FGW;Jacques;6;5
 09.08.2023;Rafael;Jacques;FGW;FGW;3;6
+10.08.2023;Rafael;Jacques;Marcus;Marcus;6;1
+10.08.2023;Marcus;Marcus;Rafael;Jacques;4;6
+10.08.2023;Simon;Rafael;Marcus;Jacques;6;3
+10.08.2023;Simon;Marcus;Rafael;Jacques;6;4
+10.08.2023;Marcus;Rafael;Simon;Jacques;6;1
