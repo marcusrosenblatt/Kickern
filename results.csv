@@ -222,3 +222,12 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 10.08.2023;FGW;Simon;Camilla;Marcus;5;6
 10.08.2023;FGW;Camilla;Simon;Rafael;6;5
 10.08.2023;Rafael;Rafael;Marcus;Marcus;4;6
+14.08.2023;Rafael;FGW;Marcus;Simon;6;1
+14.08.2023;Rafael;Marcus;Simon;FGW;6;4
+14.08.2023;Rafael;Simon;FGW;Marcus;2;6
+14.08.2023;Simon;Marcus;Rafael;FGW;6;2
+14.08.2023;FGW;Simon;Marcus;Rafael;5;6
+14.08.2023;Marcus;FGW;Simon;Rafael;6;3
+14.08.2023;Simon;Rafael;Svenja;FGW;4;6
+14.08.2023;Simon;Svenja;Rafael;FGW;2;6
+14.08.2023;Svenja;Rafael;FGW;Simon;2;6
