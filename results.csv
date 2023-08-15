@@ -231,3 +231,11 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 14.08.2023;Simon;Rafael;Svenja;FGW;4;6
 14.08.2023;Simon;Svenja;Rafael;FGW;2;6
 14.08.2023;Svenja;Rafael;FGW;Simon;2;6
+15.08.2023;FGW;Rafael;Paul;Svenja;2;6
+15.08.2023;Rafael;FGW;Marcus;Paul;5;6
+15.08.2023;Svenja;Marcus;Paul;FGW;1;6
+15.08.2023;Svenja;FGW;Rafael;Marcus;6;2
+15.08.2023;Svenja;Rafael;Paul;FGW;3;6
+15.08.2023;Simon;Marcus;Paul;Jacques;6;4
+15.08.2023;Paul;Paul;Rafael;Rafael;6;3
+15.08.2023;Simon;Rafael;FGW;Jacques;2;6
