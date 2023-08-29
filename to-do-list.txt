@@ -9,3 +9,4 @@ To-Do-Liste für die Kickerstatisik:
 - optinal: list best and worst TEAM-Elos as a table (for example: only show best and worst 10 teams)
 - in final table: color the winners
 - add a basic ELO list for single player mode
+- remove players with <10 games to deflate tables (all relevant players have >>10 anyway)
