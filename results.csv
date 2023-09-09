@@ -367,3 +367,17 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 06.09.2023;Severin;Philipp;FGW;Simon;6;0
 06.09.2023;Severin;Philipp;FGW;Simon;6;4
 06.09.2023;Simon;Philipp;Severin;FGW;2;6
+07.09.2023;FGW;FGW;Severin;Severin;6;1
+07.09.2023;Tobias;Simon;Severin;Marcus;0;6
+07.09.2023;Severin;FGW;Marcus;Simon;6;2
+07.09.2023;FGW;Marcus;Severin;Simon;6;2
+07.09.2023;Severin;Marcus;FGW;Simon;6;2
+07.09.2023;Philipp;FGW;Severin;Simon;6;4
+07.09.2023;Philipp;Simon;FGW;Severin;6;1
+07.09.2023;Severin;Marcus;FGW;Simon;6;4
+07.09.2023;Marcus;Marcus;Severin;Severin;6;1
+07.09.2023;Philipp;Simon;Marcus;Severin;6;4
+07.09.2023;Severin;Simon;Marcus;Philipp;6;3
+07.09.2023;Severin;Philipp;Marcus;Simon;6;4
+07.09.2023;Marcus;Marcus;Simon;Simon;6;3
+07.09.2023;Marcus;Marcus;Severin;Severin;4;6
