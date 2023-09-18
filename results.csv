@@ -421,3 +421,10 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 14.09.2023;Jacques;Rafael;Simon;FGW;4;6
 14.09.2023;Rafael;FGW;Simon;Marcus;5;6
 14.09.2023;Rafael;Rafael;Marcus;Marcus;4;6
+15.09.2023;Marcus;Svenja;Simon;Jacques;6;4
+15.09.2023;Rafael;Marcus;Svenja;Jacques;6;4
+15.09.2023;Svenja;Rafael;Jacques;Marcus;6;3
+15.09.2023;Marcus;Marcus;Rafael;Jacques;6;5
+18.09.2023;Rafael;Marcus;Svenja;Simon;6;3
+18.09.2023;Svenja;Marcus;Simon;Rafael;2;6
+18.09.2023;Rafael;Svenja;Simon;Marcus;6;5
