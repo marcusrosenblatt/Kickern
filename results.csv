@@ -491,3 +491,9 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 12.10.2023;Julius;Rafael;Svenja;Yaser;6;2
 12.10.2023;Julius;Svenja;Rafael;Yaser;6;3
 12.10.2023;Svenja;Rafael;Julius;Yaser;6;2
+12.10.2023;Paulina;Paulina;Rafael;Rafael;5;6
+12.10.2023;Rafael;Rafael;Paulina;Paulina;6;3
+12.10.2023;Paulina;Paulina;Rafael;Rafael;4;6
+13.10.2023;Rafael;Shakoor;Svenja;Simon;6;4
+13.10.2023;Rafael;Svenja;Simon;Shakoor;6;0
+13.10.2023;Svenja;Shakoor;Simon;Rafael;2;6
