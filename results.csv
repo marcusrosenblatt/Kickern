@@ -612,5 +612,9 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 08.11.2023;Severin;Rafael;Paul1;FGW;3;6
 08.11.2023;Simon;Simon;Severin;Severin;4;6
 08.11.2023;Severin;Severin;Paul1;Paul1;5;6
-08.11.2023;Simon;Paul1;Jacques;FGW;5;6
-08.11.2023;Jacques;Paul1;Simon;FGW;1;6
+08.11.2023;Simon;Paul1;Julius;FGW;5;6
+08.11.2023;Julius;Paul1;Simon;FGW;1;6
+09.11.2023;Paul2;Jacques;Svenja;FGW;2;6
+09.11.2023;Rafael;Marcus;Julius;FGW;6;2
+09.11.2023;Rafael;FGW;Julius;Marcus;6;3
+09.11.2023;FGW;Marcus;Rafael;Julius;6;3
