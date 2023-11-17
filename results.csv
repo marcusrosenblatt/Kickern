@@ -634,3 +634,11 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 14.11.2023;Rafael;Paul2;Marcus;FGW;4;6
 14.11.2023;Paul2;Marcus;Rafael;FGW;6;4
 14.11.2023;Paul2;FGW;Rafael;Marcus;1;6
+15.11.2023;Severin;Marcus;Svenja;FGW;4;6
+16.11.2023;Rafael;Marcus;Paul2;Svenja;6;3
+16.11.2023;Svenja;Paul1;Paul2;Marcus;6;4
+16.11.2023;Marcus;Marcus;Paul2;Paul2;6;1
+16.11.2023;Rafael;Rafael;Paul1;Paul1;5;6
+17.11.2023;Paul1;Paul1;Paul2;Paul2;6;3
+17.11.2023;Paul1;Marcus;Paul2;Rafael;6;4
+17.11.2023;Svenja;Marcus;Paul2;Paul1;6;4
