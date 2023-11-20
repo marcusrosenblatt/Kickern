@@ -642,3 +642,6 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 17.11.2023;Paul1;Paul1;Paul2;Paul2;6;3
 17.11.2023;Paul1;Marcus;Paul2;Rafael;6;4
 17.11.2023;Svenja;Marcus;Paul2;Paul1;6;4
+17.11.2023;Paul2;Paul1;Rafael;Marcus;2;6
+17.11.2023;Rafael;Paul1;Paul2;Marcus;4;6
+17.11.2023;Marcus;Paul1;Rafael;Paul2;6;3
