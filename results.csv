@@ -712,6 +712,14 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 14.12.2023;Svenja;Paul2;Severin;FGW;6;3
 14.12.2023;Severin;Paul2;FGW;Svenja;6;5
 15.12.2023;Rafael;Rafael;Paulina;Paulina;6;3
-14.12.2023;Paulina;Marcus;Rafael;Paul1;4;6
-14.12.2023;Paul1;Marcus;Paulina;Rafael;6;5
-14.12.2023;Paul2;Marcus;Rafael;Paul1;6;5
+15.12.2023;Paulina;Marcus;Rafael;Paul1;4;6
+15.12.2023;Paul1;Marcus;Paulina;Rafael;6;5
+15.12.2023;Paul2;Marcus;Rafael;Paul1;6;5
+18.12.2023;Julius;Svenja;Simon;FGW;4;6
+18.12.2023;FGW;Julius;Simon;Svenja;6;5
+18.12.2023;Svenja;FGW;Julius;Simon;6;3
+18.12.2023;Simon;FGW;Paul1;Marcus;6;5
+18.12.2023;Paul2;Svenja;Jacques;Paul1;6;5
+18.12.2023;Simon;Marcus;FGW;Svenja;1;6
+19.12.2023;Severin;Jacques;FGW;Marcus;6;3
+19.12.2023;Severin;Marcus;FGW;Jacques;6;2
