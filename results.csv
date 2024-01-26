@@ -779,3 +779,12 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 24.01.2024;Rafael;Zayan;Marcus;Julius;2;6
 24.01.2024;Julius;Zayan;Paul2;Marcus;3;6
 24.01.2024;Marcus;Zayan;Julius;Rafael;1;6
+25.01.2024;Rafael;Paul2;Julius;FGW;2;6
+25.01.2024;Paul2;FGW;Rafael;Julius;4;6
+25.01.2024;FGW;Rafael;Julius;Paul2;6;0
+26.01.2024;Rafael;Zayan;Julius;Paul2;3;6
+26.01.2024;Rafael;Paul2;Julius;Zayan;6;5
+26.01.2024;Zayan;Paul2;Rafael;Julius;2;6
+26.01.2024;Rafael;Svenja;FGW;Julius;0;6
+26.01.2024;Svenja;Julius;FGW;Rafael;4;6
+26.01.2024;FGW;Svenja;Julius;Rafael;3;6
