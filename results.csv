@@ -788,3 +788,10 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 26.01.2024;Rafael;Svenja;FGW;Julius;0;6
 26.01.2024;Svenja;Julius;FGW;Rafael;4;6
 26.01.2024;FGW;Svenja;Julius;Rafael;3;6
+29.01.2024;Paul2;FGW;Svenja;Rafael;6;5
+29.01.2024;Svenja;FGW;Paul2;Rafael;6;2
+29.01.2024;Svenja;Paul2;Rafael;FGW;1;6
+30.01.2024;Marcus;FGW;Svenja;Jacques;6;1
+30.01.2024;FGW;Svenja;Jacques;Marcus;6;1
+30.01.2024;FGW;Jacques;Svenja;Marcus;2;6
+31.01.2024;Rafael;Marcus;FGW;Jacques;6;2
