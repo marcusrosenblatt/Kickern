@@ -795,3 +795,14 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 30.01.2024;FGW;Svenja;Jacques;Marcus;6;1
 30.01.2024;FGW;Jacques;Svenja;Marcus;2;6
 31.01.2024;Rafael;Marcus;FGW;Jacques;6;2
+01.02.2024;Jacques;FGW;Julius;Rafael;4;6
+01.02.2024;Rafael;FGW;Jacques;Julius;6;2
+01.02.2024;Rafael;Marcus;FGW;Julius;3;6
+02.02.2024;Rafael;Malte;Jacques;Marcus;6;3
+02.02.2024;Paul2;Marcus;Jacques;Rafael;6;3
+08.02.2024;FGW;Camilla;Julius;Marcus;6;5
+08.02.2024;FGW;Paul2;Marcus;Camilla;6;4
+08.02.2024;FGW;Marcus;Paul2;Camilla;6;3
+14.02.2024;Jacques;Marcus;Viviane;Rafael;6;3
+14.02.2024;Viviane;Marcus;Rafael;Jacques;2;6
+14.02.2024;Viviane;Jacques;Marcus;Rafael;0;6
