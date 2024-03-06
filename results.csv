@@ -823,3 +823,9 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 05.03.2024;Svenja;Paul2;Severin;Rafael;3;6
 05.03.2024;Rafael;Svenja;Severin;Paul2;6;3
 05.03.2024;Severin;Svenja;Rafael;Paul2;6;4
+06.03.2024;Rafael;Svenja;Severin;Paul2;6;2
+06.03.2024;Severin;Svenja;Rafael;Paul2;6;5
+06.03.2024;Svenja;Paul2;Severin;Rafael;4;6
+06.03.2024;Rafael;FGW;Severin;Paul2;6;2
+06.03.2024;Rafael;Paul2;Severin;FGW;6;3
+06.03.2024;FGW;Paul2;Severin;Rafael;6;4
