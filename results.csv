@@ -883,3 +883,8 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 25.03.2024;Rafael;Paul1;Severin;FGW;6;5
 25.03.2024;FGW;Paul1;Severin;Rafael;6;2
 25.03.2024;Rafael;FGW;Severin;Paul1;6;2
+26.03.2024;Severin;Severin;Paul1;Paul1;6;3
+26.03.2024;Paul1;Paul1;Severin;Severin;5;6
+04.04.2024;Jacques;FGW;Julius;Rafael;5;6
+04.04.2024;Rafael;Jacques;FGW;Julius;6;5
+04.04.2024;Julius;Jacques;Rafael;FGW;3;6
