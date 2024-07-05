@@ -1103,3 +1103,15 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 28.06.2024;Severin;Jacques;Rafael;Simon;2;6
 28.06.2024;Leonard;Simon;Severin;Rafael;3;6
 28.06.2024;Severin;Simon;Rafael;Leonard;2;6
+02.07.2024;Jacques;Jacques;Severin;Severin;6;5
+03.07.2024;Marcus;Marcus;Severin;Severin;6;5
+03.07.2024;Julius;Rafael;Severin;Marcus;4;6
+03.07.2024;Julius;Marcus;Severin;Rafael;6;3
+03.07.2024;Rafael;Marcus;Severin;Julius;6;2
+04.07.2024;Marcus;Jacques;Severin;Rafael;3;6
+04.07.2024;Rafael;Marcus;Severin;Jacques;6;4
+04.07.2024;Severin;Marcus;Rafael;Jacques;5;6
+04.07.2024;Rafael;Jacques;Julius;Marcus;4;6
+04.07.2024;Marcus;Jacques;Julius;Rafael;1;6
+04.07.2024;Rafael;Rafael;Marcus;Marcus;6;5
+04.07.2024;Marcus;Marcus;Rafael;Rafael;3;6
