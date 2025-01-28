@@ -1433,8 +1433,14 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 24.01.2024;Marcus;Marcus;Rafael;Rafael;4;6
 24.01.2024;Rafael;Rafael;Marcus;Marcus;6;0
 24.01.2024;Marcus;Marcus;Rafael;Rafael;5;6
-26.01.2024;Klara;Simon;Leonard;Ar??;6;0
+26.01.2024;Klara;Simon;Leonard;Arvid;6;0
 27.01.2024;Lisanne;Marcus;Severin;Rafael;4;6
 27.01.2024;Marcus;Rafael;Severin;Lisanne;6;3
 27.01.2024;Rafael;Lisanne;Marcus;Severin;3;6
 27.01.2024;Severin;Severin;Rafael;Rafael;3;6
+28.01.2024;Marcus;Marcus;Severin;Severin;6;5
+28.01.2024;Rafael;Rafael;Marcus;Marcus;6;3
+28.01.2024;Simon;Marcus;Severin;Rafael;1;6
+28.01.2024;Marcus;Rafael;Severin;Simon;6;4
+28.01.2024;Rafael;Simon;Severin;Marcus;3;6
+28.01.2024;Severin;Severin;Rafael;Rafael;6;5
