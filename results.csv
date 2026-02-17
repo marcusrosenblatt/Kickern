@@ -1978,6 +1978,9 @@ Datum;Sp. A1;Sp. A2;Sp. B1;Sp. B2;Tore A;Tore B
 06.02.2026;Severin;Sophia;Marcus;Jacques;6;2
 06.02.2026;Jacques;Sophia;Severin;Marcus;4;6
 06.02.2026;Severin;Jacques;Sophia;Marcus;6;3
+06.02.2026;Severin;Sophia;Simon;Marcus;2;6
+06.02.2026;Sophia;Marcus;Severin;Simon;6;2
+06.02.2026;Simon;Marianne;Marcus;Simon;4;6
 09.02.2026;Rafael;Sophia;Severin;Simon;4;6
 09.02.2026;Severin;Sophia;Rafael;Simon;1;6
 09.02.2026;Rafael;Severin;Simon;Sophia;6;1
